@@ -1,0 +1,64 @@
+
+[
+    {
+      "name": "Samsung Galaxy S21",
+      "price": 999,
+      "featured": true,
+      "company": "samsung"
+    },
+    {
+      "name": "iPhone 12 Pro",
+      "price": 1099,
+      "featured": true,
+      "company": "apple"
+    },
+    {
+      "name": "Dell XPS 13",
+      "price": 1299,
+      "featured": true,
+      "company": "dell"
+    },
+    {
+      "name": "Mi 11",
+      "price": 699,
+      "featured": true,
+      "company": "mi"
+    },
+    {
+      "name": "Samsung Galaxy Tab S7",
+      "price": 799,
+      "featured": false,
+      "company": "samsung"
+    },
+    {
+      "name": "MacBook Pro 16-inch",
+      "price": 2399,
+      "featured": false,
+      "company": "apple"
+    },
+    {
+      "name": "Dell Alienware M15",
+      "price": 1799,
+      "featured": false,
+      "company": "dell"
+    },
+    {
+      "name": "Mi Watch",
+      "price": 199,
+      "featured": true,
+      "company": "mi"
+    },
+    {
+      "name": "Samsung 4K QLED TV",
+      "price": 1499,
+      "featured": true,
+      "company": "samsung"
+    },
+    {
+      "name": "iPhone SE",
+      "price": 399,
+      "featured": true,
+      "company": "apple"
+    }
+  ]
+  
